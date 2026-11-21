@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Tom Fournier, full-stack developer, 42 Lyon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#2563eb"/><stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.22"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .mono { font-family: "JetBrains Mono", "Fira Code", Consolas, "DejaVu Sans Mono", monospace; }
+    .prompt { font: 18px "JetBrains Mono", "Fira Code", Consolas, "DejaVu Sans Mono", monospace; fill: #8b949e; }
+    .user { fill: #3fb950; } .path { fill: #58a6ff; }
+    .name { font: 700 54px "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; letter-spacing: -1px; }
+    .arrow { font: 700 22px "JetBrains Mono", Consolas, "DejaVu Sans Mono", monospace; fill: #a78bfa; }
+    .type { font: 22px "JetBrains Mono", "Fira Code", Consolas, "DejaVu Sans Mono", monospace; fill: #c9d1d9; }
+    .cursor { fill: #58a6ff; animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect x="1" y="1" width="998" height="248" rx="16" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="248" rx="16" fill="url(#glow)"/>
+  <circle cx="34" cy="30" r="7" fill="#ff5f56"/><circle cx="58" cy="30" r="7" fill="#ffbd2e"/><circle cx="82" cy="30" r="7" fill="#27c93f"/>
+  <text x="500" y="35" text-anchor="middle" class="prompt" font-size="14">tom@42lyon: ~</text>
+  <text x="60" y="88" class="prompt"><tspan class="user">tom@42lyon</tspan>:<tspan class="path">~</tspan>$ whoami</text>
+  <text x="58" y="148" class="name">Tom Fournier</text>
+  <g font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, monospace" font-size="16" fill="#8b949e">
+    <rect x="640" y="70" width="320" height="146" rx="10" fill="#0d1117" fill-opacity="0.6" stroke="#30363d"/>
+    <text x="662" y="102"><tspan fill="#ff7b72">const</tspan> <tspan fill="#d2a8ff">tom</tspan> = {</text>
+    <text x="682" y="128"><tspan fill="#79c0ff">school</tspan>: <tspan fill="#a5d6ff">"42 Lyon"</tspan>,</text>
+    <text x="682" y="154"><tspan fill="#79c0ff">loves</tspan>: <tspan fill="#a5d6ff">"shipping"</tspan>,</text>
+    <text x="682" y="180"><tspan fill="#79c0ff">openToWork</tspan>: <tspan fill="#ff7b72">true</tspan>,</text>
+    <text x="662" y="204">};</text>
+  </g>
+  <text x="60" y="196" class="arrow">&gt;</text>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" values="1;1;0;0" keyTimes="0;0.2500;0.2500;1"/>
+    <clipPath id="c0"><rect x="92" y="172" width="0" height="34"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;398.0;398.0" keyTimes="0;0.1000;1"/></rect></clipPath>
+    <text x="92" y="196" class="type" textLength="396.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">full-stack developer · 42 Lyon</text>
+    <rect y="177" width="11" height="24" class="cursor"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" values="94;492.0;492.0" keyTimes="0;0.1000;1"/></rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.2500;0.5000;0.5000;1"/>
+    <clipPath id="c1"><rect x="92" y="172" width="0" height="34"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;516.8;516.8" keyTimes="0;0.2500;0.3500;1"/></rect></clipPath>
+    <text x="92" y="196" class="type" textLength="514.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">TypeScript · Node.js · Angular · NestJS</text>
+    <rect y="177" width="11" height="24" class="cursor"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" values="94;94;610.8;610.8" keyTimes="0;0.2500;0.3500;1"/></rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5000;0.7500;0.7500;1"/>
+    <clipPath id="c2"><rect x="92" y="172" width="0" height="34"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;530.0;530.0" keyTimes="0;0.5000;0.6000;1"/></rect></clipPath>
+    <text x="92" y="196" class="type" textLength="528.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">C · C++ · threads · sockets · algorithms</text>
+    <rect y="177" width="11" height="24" class="cursor"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" values="94;94;624.0;624.0" keyTimes="0;0.5000;0.6000;1"/></rect>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" dur="14.0s" repeatCount="indefinite" calcMode="discrete" values="0;0;1;1" keyTimes="0;0.7500;0.7500;1"/>
+    <clipPath id="c3"><rect x="92" y="172" width="0" height="34"><animate attributeName="width" dur="14.0s" repeatCount="indefinite" values="0;0;503.6;503.6" keyTimes="0;0.7500;0.8500;1"/></rect></clipPath>
+    <text x="92" y="196" class="type" textLength="501.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">Docker · Nginx · Linux · in production</text>
+    <rect y="177" width="11" height="24" class="cursor"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" values="94;94;597.6;597.6" keyTimes="0;0.7500;0.8500;1"/></rect>
+  </g>
+</svg>
