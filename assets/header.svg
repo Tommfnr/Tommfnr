@@ -30,7 +30,7 @@
     <rect x="640" y="70" width="320" height="146" rx="10" fill="#0d1117" fill-opacity="0.6" stroke="#30363d"/>
     <text x="662" y="102"><tspan fill="#ff7b72">const</tspan> <tspan fill="#d2a8ff">tom</tspan> = {</text>
     <text x="682" y="128"><tspan fill="#79c0ff">school</tspan>: <tspan fill="#a5d6ff">"42 Lyon"</tspan>,</text>
-    <text x="682" y="154"><tspan fill="#79c0ff">loves</tspan>: <tspan fill="#a5d6ff">"shipping"</tspan>,</text>
+    <text x="682" y="154"><tspan fill="#79c0ff">loves</tspan>: <tspan fill="#a5d6ff">"code"</tspan>,</text>
     <text x="682" y="180"><tspan fill="#79c0ff">openToWork</tspan>: <tspan fill="#ff7b72">true</tspan>,</text>
     <text x="662" y="204">};</text>
   </g>
