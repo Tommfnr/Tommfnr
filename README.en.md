@@ -103,8 +103,6 @@ A **non-blocking** web server with no external libraries, configured like Nginx.
 
 My part: request handling, error pages, autoindex, redirects, POST and query strings.
 
-🔗 [Tommfnr/Webserv](https://github.com/Tommfnr/Webserv)
-
 </td>
 <td width="50%" valign="top">
 

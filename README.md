@@ -103,8 +103,6 @@ Un serveur web **non bloquant**, sans bibliothèque externe et configurable comm
 
 Ma partie : le traitement des requêtes, les pages d'erreur, l'autoindex, les redirections, POST et les query strings.
 
-🔗 [Tommfnr/Webserv](https://github.com/Tommfnr/Webserv)
-
 </td>
 <td width="50%" valign="top">
 
