@@ -25,7 +25,7 @@ I like **building complete applications**, from the interface down to the server
 
 ## 🚀 Featured projects
 
-### 🤝 PEP, peer-to-peer lending
+### 🤝 [PEP, peer-to-peer lending](https://github.com/Tommfnr/Transcendence-)
 > *ft_transcendence · final project of the 42 core curriculum · team of 5*
 
 A platform where members of the same group lend each other objects, putting **the social connection before the transaction**.
@@ -96,14 +96,14 @@ Sort a list of numbers using **two stacks** and a very limited set of operations
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Webserv
+### 🌐 [Webserv](https://github.com/Tommfnr/Webserv)
 *C++98 · sockets · HTTP/1.1*
 
 A **non-blocking** web server with no external libraries, configured like Nginx. Team project.
 
 My part: request handling, error pages, autoindex, redirects, POST and query strings.
 
-🔗 [mangojus/webserv](https://github.com/mangojus/webserv)
+🔗 [Tommfnr/Webserv](https://github.com/Tommfnr/Webserv)
 
 </td>
 <td width="50%" valign="top">

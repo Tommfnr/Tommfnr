@@ -25,7 +25,7 @@ J'aime **construire des applis complètes**, de l'interface jusqu'au serveur qui
 
 ## 🚀 Projets phares
 
-### 🤝 PEP, Prêt Entre Particuliers
+### 🤝 [PEP, Prêt Entre Particuliers](https://github.com/Tommfnr/Transcendence-)
 > *ft_transcendence · projet final du tronc commun 42 · équipe de 5*
 
 Une plateforme pour se prêter des objets entre membres d'un même groupe, où **le lien entre les gens compte avant la transaction**.
@@ -96,14 +96,14 @@ Trier une liste de nombres avec **deux piles** et un jeu d'opérations très lim
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Webserv
+### 🌐 [Webserv](https://github.com/Tommfnr/Webserv)
 *C++98 · sockets · HTTP/1.1*
 
 Un serveur web **non bloquant**, sans bibliothèque externe et configurable comme Nginx. Projet d'équipe.
 
 Ma partie : le traitement des requêtes, les pages d'erreur, l'autoindex, les redirections, POST et les query strings.
 
-🔗 [mangojus/webserv](https://github.com/mangojus/webserv)
+🔗 [Tommfnr/Webserv](https://github.com/Tommfnr/Webserv)
 
 </td>
 <td width="50%" valign="top">
