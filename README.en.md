@@ -65,7 +65,7 @@ A web application that runs a non-profit's yearly schedule: sessions, attendance
 <tr>
 <td width="50%" valign="top">
 
-### 🍝 Philosophers
+### 🍝 [Philosophers](https://github.com/Tommfnr/Philosophers)
 *C · pthreads · mutexes*
 
 The **dining philosophers** problem: philosophers share forks around a table. They must eat, sleep and think **without ever deadlocking** and without starving.
@@ -78,7 +78,7 @@ The **dining philosophers** problem: philosophers share forks around a table. Th
 </td>
 <td width="50%" valign="top">
 
-### 🔢 push_swap
+### 🔢 [push_swap](https://github.com/Tommfnr/Push_swap)
 *C · algorithms*
 
 Sort a list of numbers using **two stacks** and a very limited set of operations, **in as few moves as possible**.
@@ -131,6 +131,16 @@ A WordPress infrastructure built **without any ready-made image**: NGINX (TLS 1.
 *C · raycasting*
 
 A **raycasting** 3D engine inspired by Wolfenstein 3D, with textured walls and real-time movement.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚙️ [C++ Modules 00 to 09](https://github.com/Tommfnr/Cpp_42)
+*C++98 · OOP · templates · STL*
+
+Ten modules to learn C++: classes, canonical form, inheritance and polymorphism, exceptions, casts, templates and STL containers. The last module ends with a **Ford-Johnson sort** (merge-insertion with the Jacobsthal sequence), implemented with both `std::vector` and `std::deque`.
 
 </td>
 </tr>
