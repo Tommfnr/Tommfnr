@@ -19,6 +19,7 @@ I like **building complete applications**, from the interface down to the server
 - 🚀 **Right now:** I maintain a web application **in production** for a non-profit
 - 🎓 **At 42:** ft_transcendence, the final project of the core curriculum, built by a team of 5
 - 🧩 **What I enjoy:** algorithmic puzzles and concurrency problems
+- 🤖 **My edge:** I know how to work efficiently with AI, without handing it the wheel
 - 🎯 **Looking for:** an internship, a work-study position or a first developer role
 
 ---
@@ -134,6 +135,19 @@ A **raycasting** 3D engine inspired by Wolfenstein 3D, with textured walls and r
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 AI in my workflow
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+I use AI every day as a **development tool**, mostly Claude Code, and I stay in control of what it produces:
+
+- 🧭 **I drive and I review:** I read every change, test it, and can explain and defend it
+- 📘 **I give the model context:** on my client project, I keep a `CLAUDE.md` file up to date (architecture, conventions, commands, deployment) so the AI follows the same rules I do
+- 🧪 **I rely on tests:** functional and visual regression tests run before every release, whether the code was written by me or by the AI
+- 🎓 **At 42**, I follow the school's rules: AI helps me proofread documentation and refactor, never to skip understanding the subject
 
 ---
 

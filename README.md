@@ -19,6 +19,7 @@ J'aime **construire des applis complètes**, de l'interface jusqu'au serveur qui
 - 🚀 **En ce moment :** je maintiens une application web **en production** pour une association
 - 🎓 **À 42 :** ft_transcendence, le projet final du tronc commun, réalisé en équipe de 5
 - 🧩 **Ce qui me plaît :** les casse-têtes algorithmiques et les problèmes de concurrence
+- 🤖 **Mon atout :** je sais travailler efficacement avec l'IA, sans lui laisser le volant
 - 🎯 **Je cherche :** un stage, une alternance ou un premier poste de développeur
 
 ---
@@ -134,6 +135,19 @@ Un moteur 3D par **raycasting**, inspiré de Wolfenstein 3D, avec des murs textu
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 L'IA dans ma façon de travailler
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+J'utilise l'IA au quotidien comme un **outil de développement**, surtout Claude Code. C'est moi qui garde la main sur ce qui est produit :
+
+- 🧭 **Je pilote et je valide :** je relis chaque modification, je la teste, et je sais l'expliquer et la défendre
+- 📘 **Je donne du contexte au modèle :** sur mon projet client, je tiens à jour un fichier `CLAUDE.md` (architecture, conventions, commandes, déploiement) pour que l'IA suive les mêmes règles que moi
+- 🧪 **Je sécurise avec des tests :** tests fonctionnels et non-régression visuelle avant chaque mise en production, que le code vienne de moi ou de l'IA
+- 🎓 **À 42**, je respecte les règles de l'école : l'IA m'aide à relire la documentation et à refactorer, jamais à éviter de comprendre le sujet
 
 ---
 
