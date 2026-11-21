@@ -25,7 +25,7 @@ I like **building complete applications**, from the interface down to the server
 
 ## 🚀 Featured projects
 
-### 🤝 [PEP, peer-to-peer lending](https://github.com/Tommfnr/Transcendence-)
+### 🤝 [PEP, peer-to-peer lending](https://github.com/Tommfnr/Transcendence)
 > *ft_transcendence · final project of the 42 core curriculum · team of 5*
 
 A platform where members of the same group lend each other objects, putting **the social connection before the transaction**.

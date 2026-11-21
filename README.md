@@ -25,7 +25,7 @@ J'aime **construire des applis complètes**, de l'interface jusqu'au serveur qui
 
 ## 🚀 Projets phares
 
-### 🤝 [PEP, Prêt Entre Particuliers](https://github.com/Tommfnr/Transcendence-)
+### 🤝 [PEP, Prêt Entre Particuliers](https://github.com/Tommfnr/Transcendence)
 > *ft_transcendence · projet final du tronc commun 42 · équipe de 5*
 
 Une plateforme pour se prêter des objets entre membres d'un même groupe, où **le lien entre les gens compte avant la transaction**.
